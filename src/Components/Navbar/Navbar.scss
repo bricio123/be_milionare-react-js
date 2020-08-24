@@ -1,0 +1,18 @@
+.Nav_bar {
+  transition: 5s ease all;
+  width: 100%;
+  z-index: 9999;
+  top: 0;
+  
+}
+.navbar-toggler {
+  outline: unset !important;
+  border: unset !important;
+}
+
+.navbar-toggler-icon::before {
+  content: url(../../assets/icons/coins.png);
+}
+.navbar-toggler-icon {
+  background-image: unset !important ;
+}

@@ -1,0 +1,21 @@
+.Testimonials {
+  width: 100%;
+  height: 100vh;
+  padding: 2rem 0;
+}
+.modal-header {
+  color: #000;
+}
+.modal-body{
+    background: #A2CA4A;
+}
+
+@media screen and (max-width: 790px) {
+  .copy__text h1 {
+    font-size: 2rem;
+  }
+  .copy__text {
+    text-align: center;
+  }
+ 
+}

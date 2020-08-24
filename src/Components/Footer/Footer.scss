@@ -1,0 +1,21 @@
+.li_links{
+    text-transform: uppercase;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    transition:1s ease all;
+}
+.li_links:hover{
+    border-bottom: 1px solid #fdec00;
+    transition:1s ease all;
+    
+}
+.links:hover{
+    text-decoration: unset;
+}
+@media screen and (max-width:992px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
+}

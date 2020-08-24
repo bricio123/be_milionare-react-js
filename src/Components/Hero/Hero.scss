@@ -1,0 +1,32 @@
+.Hero_container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin-top: 5rem;
+}
+.Hero_handle {
+  height: 100%;
+}
+.pr {
+  color: #867d76;
+}
+.nav-tabs {
+  border: 0;
+}
+.nav-item {
+  background-color: unset;
+  color: #fff;
+}
+.nav-item:active {
+  outline: unset;
+}
+.nav-item:hover {
+  border: 0;
+  margin: 0;
+  color: #fff;
+}
+.img__txt {
+  width: 200px;
+  margin-right: 50px;
+}
+
